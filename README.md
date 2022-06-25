@@ -2,14 +2,6 @@
 
 <hr>
 
-**Um pouco sobre mim:**
-
-- 🔭 Atualmente não trabalho ainda, mas você poder mudar isso.
-- 🌱 Atualmente aprendendo python e desenvolvimento web.
-- 📫 Entre em contato comigo - matheustwirl@gmail.com
-- 😄 Pronomes - ele/dele
-- ⚡ Fato engraçado - gosto muito de gatos!
-
 **git stats**
 <div align="center">
   <a href="https://github.com/paidepet">
