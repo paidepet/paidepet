@@ -1,6 +1,11 @@
-### Olá!! Eu sou o Matheus Patricio e seja bem vindo(a) ao meu github
+<h1 align="center"
+    <p>
+Oi devs! Sejam bem-vindos ao meu perfil!👋
+<br>
+<br>
+</p>
 
-<hr>
+</h1>
 
 **github stats:**
 <div align="center">
